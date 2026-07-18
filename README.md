@@ -32,7 +32,15 @@ Full Stack Developer | Java | MERN | AI Enthusiast
 ⚡ **Fun Fact:** I enjoy turning innovative ideas into real-world applications.
 
 <!---------------------------->
+## 🛠️ Tech Stack
 
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,mongodb,mysql,typescript,javascript,html,css,tailwind,git,github,python,vscode,postman&perline=9" />
+
+</p>
+
+<!---------------------------->
 
 
 <!--
