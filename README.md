@@ -8,7 +8,6 @@
 <h3 align="center">
 Full Stack Developer | Java | MERN | AI Enthusiast
 </h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Developer;MERN+Stack+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
