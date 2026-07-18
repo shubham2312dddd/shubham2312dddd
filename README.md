@@ -52,6 +52,36 @@ Full Stack Developer | Java | MERN | AI Enthusiast
   <img src="https://streak-stats.demolab.com?user=shubham2312dddd&theme=tokyonight&hide_border=true" />
 </p>
 <!---------------------------->
+<p align="center">
+
+<a href="https://www.linkedin.com/in/shubham-yadav-9029b3315/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:shubhamhr2004@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shubham2312dddd" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/Shubham_hro2/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/shubham7evu?tab=activity" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+
+</p>
+
+
+
+
+
+
+
 
 
 <!--
