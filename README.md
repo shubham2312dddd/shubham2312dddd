@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/shubham2312dddd/shubham2312dddd/blob/main/ChatGPT%20Image%20Jul%2018%2C%202026%2C%2010_38_48%20PM.png" alt="Banner" width="100%">
 </p>
-<h1 align="center">Hi 👋, I'm Shubham</h1>
+<h1 align="center">Hi , I'm Shubham</h1>
 
 <h3 align="center">
 Full Stack Developer | Java | MERN | AI Enthusiast
