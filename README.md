@@ -195,3 +195,11 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://raw.githubusercontent.com/shubham2312dddd/shubham2312dddd/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
+<!---------------------------->
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shubham2312dddd&theme=tokyonight&no-frame=true&row=2&column=4" />
+</p>
