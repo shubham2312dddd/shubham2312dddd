@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 
 <h3 align="center">
-Full Stack Developer | Java | Spring Boot | MERN | AI Enthusiast
+Full Stack Developer | Java | MERN | AI Enthusiast
 </h3>
 
 <p align="center">
