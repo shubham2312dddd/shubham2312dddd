@@ -42,11 +42,9 @@ Full Stack Developer | Java | MERN | AI Enthusiast
 <!---------------------------->
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shubham2312dddd&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" />
+## 📊 GitHub Profile Summary
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham2312dddd&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham2312dddd&theme=github_dark)
 
 ## 🔥 GitHub Streak
 
