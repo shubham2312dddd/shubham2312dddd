@@ -190,3 +190,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shubham2312dddd/shubham2312dddd/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
