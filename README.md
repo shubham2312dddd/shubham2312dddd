@@ -76,10 +76,102 @@ Full Stack Developer | Java | MERN | AI Enthusiast
 
 </p>
 
+<!---------------------------->
 
 
+## 🚀 Featured Projects
 
+<table>
+<tr>
 
+<td width="50%">
+
+### ⚖️ LegalEdge – AI Legal Platform
+
+AI-powered legal assistant that helps users understand legal documents, access templates, and receive AI-based guidance.
+
+**🛠️ Tech Stack**
+- React
+- TypeScript
+- Tailwind CSS
+- Gemini AI
+
+🔗 **Live Demo**  
+https://legal-adv-58fs.onrender.com
+
+💻 **GitHub**  
+https://github.com/IMLsehaj/legal-adv
+
+</td>
+
+<td width="50%">
+
+### ❤️ IoT Health Monitoring System
+
+A full-stack IoT dashboard for monitoring environmental and health parameters with real-time visualization.
+
+**🛠️ Tech Stack**
+- React
+- Node.js
+- Express.js
+- MongoDB
+
+🔗 **Live Demo**  
+https://iot-project-frontend-2dqv.onrender.com
+
+💻 **Frontend**  
+https://github.com/sid0167/iot-project-frontend
+
+💻 **Backend**  
+https://github.com/shubham2312dddd/IOT_Backend
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🤖 AI Object Detection
+
+An AI-powered object detection web application using **YOLOv11**. The current deployment includes the frontend only because the model backend has not yet been deployed.
+
+**🛠️ Tech Stack**
+- React
+- TypeScript
+- YOLOv11
+- Node.js
+
+🔗 **Live Demo**  
+https://yolo-frontend11.onrender.com
+
+💻 **Frontend**  
+https://github.com/Sahilsanjaysingh/Yolo_frontend
+
+💻 **Backend**  
+https://github.com/Sahilsanjaysingh/objectdetection_backend
+
+</td>
+
+<td width="50%" align="center">
+
+### 🚀 More Projects Coming Soon
+
+Currently working on:
+
+- AI Applications
+- MERN Stack Projects
+- Open Source Contributions
+- Java DSA
+
+⭐ Stay tuned!
+
+</td>
+
+</tr>
+</table>
+<!---------------------------->
 
 
 
