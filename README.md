@@ -203,3 +203,22 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shubham2312dddd&theme=tokyonight&no-frame=true&row=2&column=4" />
 </p>
+
+<!---------------------------->
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham2312dddd&theme=tokyo-night&hide_border=true" />
+</p>
+<!---------------------------->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shubham2312dddd&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+<!---------------------------->
+## 💡 Developer Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
