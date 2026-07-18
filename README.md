@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://github.com/shubham2312dddd/shubham2312dddd/blob/main/ChatGPT%20Image%20Jul%2018%2C%202026%2C%2010_38_48%20PM.png" alt="Banner" width="100%">
 </p>
+
+<!---------------------------->
 <h1 align="center">Hi , I'm Shubham</h1>
 
 <h3 align="center">
@@ -10,6 +12,28 @@ Full Stack Developer | Java | MERN | AI Enthusiast
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Developer;MERN+Stack+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
+
+<!---------------------------->
+
+## 🚀 About Me
+
+🎓 **B.E. in Computer Science Engineering** (4th Year)
+
+💻 Passionate Full Stack Developer with experience in building scalable web applications.
+
+🌱 Currently expanding my expertise in **Artificial Intelligence, Deep Learning, Computer Vision, and System Design**.
+
+🤖 Interested in **Artificial Intelligence, Machine Learning, and Computer Vision**.
+
+🚀 Love solving Data Structures & Algorithms problems in Java.
+
+📫 Reach me at: **shubhamhr2004@gmail.com**
+
+⚡ **Fun Fact:** I enjoy turning innovative ideas into real-world applications.
+
+<!---------------------------->
+
+
 
 <!--
 **shubham2312dddd/shubham2312dddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
