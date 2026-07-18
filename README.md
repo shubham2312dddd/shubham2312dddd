@@ -36,7 +36,7 @@ Full Stack Developer | Java | MERN | AI Enthusiast
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,mongodb,mysql,typescript,javascript,html,css,tailwind,git,github,python,vscode,postman&perline=9" />
+<img src="https://skillicons.dev/icons?i=java,react,nodejs,express,mongodb,mysql,typescript,javascript,html,css,tailwind,git,github,python,vscode,postman&perline=9" />
 
 </p>
 
